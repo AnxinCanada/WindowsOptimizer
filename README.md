@@ -1,2 +1,2 @@
 # WindowsOptimizer
-Run the command in the copy-paste file, on average can speed up your device by 40%
+Run the command in the copy-paste file, on average can speed up your device by 20-70%
